@@ -12,7 +12,7 @@ print.forEach((item) => console.log(item));
 // hasilnya: 5
 
 // 2. at()
-// Method ini digunakan untuk array dan bertujuan untuk mengambil suatu nilai dari array sesui index yang dipassing ke parameternya
+// Method ini digunakan untuk array dan bertujuan untuk mengambil suatu nilai dari array sesuai index yang dipassing ke parameternya
 // contohnya:
 const arrAt = [11, 22, 10, 4]
 console.log(arrAt.at(1))
@@ -97,7 +97,7 @@ console.log(cities2.includes("Bandung"))
 // contohnya:
 const farm = ["Ayam", "Sapi", "Domba"]
 console.log(farm.join(", "))
-// hasilnyaL Ayam, Sapi, Domba
+// hasilnya: Ayam, Sapi, Domba
 
 // 12. map()
 // Method pada array yang akan membuat array baru dari hasil suatu program yang dijalankan pada array yang lain
